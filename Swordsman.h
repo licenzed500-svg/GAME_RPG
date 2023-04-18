@@ -10,8 +10,7 @@
 
 #include <GLFW/glfw3.h>
 #include <GLUT/GLUT.h>
-#include <thread>
-#include <chrono>
+
 
 void drawSwordsman()
 {

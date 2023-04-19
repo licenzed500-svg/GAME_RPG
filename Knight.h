@@ -88,7 +88,7 @@ void drawKnight()
     glVertex2f(590, 234);
     
     //eyes
-    glColor3ub(255, 0, 255);
+    glColor3ub(220, 20, 60);
     glVertex2f(590, 220);
     glVertex2f(590, 247);
     glVertex2f(497, 247);
@@ -208,6 +208,239 @@ void drawKnight()
     glVertex2f(458, 454);
     glVertex2f(443, 454);
     
+    glColor3ub(192, 192, 192);
+    glVertex2f(338, 358);
+    glVertex2f(350, 358);
+    glVertex2f(350, 454);
+    glVertex2f(337, 454);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(350, 454);
+    glVertex2f(365, 454);
+    glVertex2f(365, 468);
+    glVertex2f(350, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(365, 468);
+    glVertex2f(365, 482);
+    glVertex2f(377, 482);
+    glVertex2f(377, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(378, 482);
+    glVertex2f(418, 482);
+    glVertex2f(418, 495);
+    glVertex2f(378, 495);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(417, 482);
+    glVertex2f(417, 468);
+    glVertex2f(430, 468);
+    glVertex2f(430, 482);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(430, 468);
+    glVertex2f(430, 454);
+    glVertex2f(443, 454);
+    glVertex2f(443, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(458, 454);
+    glVertex2f(471, 454);
+    glVertex2f(471, 482);
+    glVertex2f(458, 482);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(458, 482);
+    glVertex2f(458, 508);
+    glVertex2f(444, 508);
+    glVertex2f(444, 482);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(471, 468);
+    glVertex2f(471, 454);
+    glVertex2f(510, 454);
+    glVertex2f(510, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(497, 468);
+    glVertex2f(510, 468);
+    glVertex2f(510, 508);
+    glVertex2f(497, 508);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(458, 508);
+    glVertex2f(497, 508);
+    glVertex2f(497, 523);
+    glVertex2f(458, 523);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(458, 523);
+    glVertex2f(444, 523);
+    glVertex2f(444, 550);
+    glVertex2f(458, 550);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(497, 523);
+    glVertex2f(510, 523);
+    glVertex2f(510, 550);
+    glVertex2f(497, 550);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(510, 454);
+    glVertex2f(510, 441);
+    glVertex2f(524, 441);
+    glVertex2f(524, 454);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(524, 454);
+    glVertex2f(524, 536);
+    glVertex2f(536, 536);
+    glVertex2f(536, 454);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(536, 509);
+    glVertex2f(536, 536);
+    glVertex2f(549, 536);
+    glVertex2f(549, 509);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(536, 536);
+    glVertex2f(603, 536);
+    glVertex2f(603, 550);
+    glVertex2f(536, 550);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(590, 523);
+    glVertex2f(603, 523);
+    glVertex2f(603, 550);
+    glVertex2f(590, 550);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(549, 523);
+    glVertex2f(549, 509);
+    glVertex2f(590, 509);
+    glVertex2f(590, 523);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(577, 468);
+    glVertex2f(590, 468);
+    glVertex2f(590, 523);
+    glVertex2f(577, 523);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(577, 468);
+    glVertex2f(577, 454);
+    glVertex2f(524, 454);
+    glVertex2f(524, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(577, 454);
+    glVertex2f(577, 427);
+    glVertex2f(590, 427);
+    glVertex2f(590, 454);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(590, 441);
+    glVertex2f(590, 427);
+    glVertex2f(604, 427);
+    glVertex2f(604, 441);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(603, 482);
+    glVertex2f(616, 482);
+    glVertex2f(616, 371);
+    glVertex2f(603, 371);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(603, 371);
+    glVertex2f(642, 371);
+    glVertex2f(642, 386);
+    glVertex2f(603, 386);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(642, 468);
+    glVertex2f(642, 482);
+    glVertex2f(603, 482);
+    glVertex2f(603, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(642, 386);
+    glVertex2f(748, 386);
+    glVertex2f(748, 399);
+    glVertex2f(642, 399);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(748, 399);
+    glVertex2f(762, 399);
+    glVertex2f(762, 413);
+    glVertex2f(748, 413);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(762, 413);
+    glVertex2f(762, 441);
+    glVertex2f(775, 441);
+    glVertex2f(775, 413);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(762, 441);
+    glVertex2f(748, 441);
+    glVertex2f(748, 454);
+    glVertex2f(762, 454);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(748, 399);
+    glVertex2f(762, 399);
+    glVertex2f(762, 413);
+    glVertex2f(748, 413);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(748, 454);
+    glVertex2f(642, 454);
+    glVertex2f(642, 468);
+    glVertex2f(748, 468);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(617, 371);
+    glVertex2f(617, 345);
+    glVertex2f(630, 345);
+    glVertex2f(630, 371);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(590, 330);
+    glVertex2f(590, 345);
+    glVertex2f(642, 345);
+    glVertex2f(642, 330);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(642, 330);
+    glVertex2f(642, 302);
+    glVertex2f(656, 302);
+    glVertex2f(656, 330);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(642, 302);
+    glVertex2f(642, 289);
+    glVertex2f(630, 289);
+    glVertex2f(630, 302);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(590, 247);
+    glVertex2f(590, 303);
+    glVertex2f(603, 303);
+    glVertex2f(603, 247);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(603, 275);
+    glVertex2f(630, 275);
+    glVertex2f(630, 289);
+    glVertex2f(603, 289);
+    
+    glColor3ub(192, 192, 192);
+    glVertex2f(577, 302);
+    glVertex2f(577, 399);
+    glVertex2f(590, 399);
+    glVertex2f(590, 302);
     glEnd();
 }
 

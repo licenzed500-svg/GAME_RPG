@@ -11,7 +11,9 @@ void renderScene(void) {
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
     glOrtho(0.0f, 1600, 900, 0.0f, 0.0f, 1.0f);
-    //drawSwordsman();
+    
+    drawSwordsman();
+    glTranslatef(270, 300,0);
     drawKnight();
     
     glutSwapBuffers();
@@ -29,3 +31,4 @@ int main(int argc, char* argv[])
     glutMainLoop();
     return 0;
 }
+
